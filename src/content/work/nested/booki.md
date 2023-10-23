@@ -2,13 +2,13 @@
 title: Booki
 publishDate: 2020-10-23 00:00:00
 img: /assets/cover_booki.png
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img_alt: booking a vacation website
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  Transforming a mock up into website
 tags:
-  - Design
-  - Dev
-  - Branding
+  - HTML
+  - CSS
+  - Responsive
 ---
 
 #### Presentation
