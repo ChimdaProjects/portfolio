@@ -36,8 +36,13 @@ const projects = (await getCollection('work'))
 				>
 					<div class="roles">
 						<Pill><Icon icon="code" size="1.33em" /> Developer</Pill>
-				
 					</div>
+					<div class="buttonCV">
+						<a href="assets/cv.pdf" target="_blank">
+							<button class="button">Download my CV</button>
+						</a>
+					</div>
+					
 				</Hero>
 
 				<img
@@ -46,6 +51,8 @@ const projects = (await getCollection('work'))
 					height="500"
 					src="/assets/mypic.png"
 				/>
+			
+				
 			</header>
 
 			<Skills />

@@ -253,3 +253,55 @@ h5 {
 		gap: 12rem;
 	}
 }
+
+/* BUTTON CV */
+.buttonCV {
+    display: flex;
+    padding: 0.5rem 1rem;
+    gap: 0.5rem;
+    color: var(--accent-text-over);
+    border: 1px solid var(--accent-regular);
+    background-color: var(--accent-regular);
+    border-radius: 999rem;
+    font-size: var(--text-md);
+    line-height: 1.35;
+    white-space: nowrap;
+	width: 30%;
+	cursor: pointer;
+	
+}
+
+
+.button {
+	background-color: var(--accent-regular);
+	border: none;
+	text-align: center;
+	font-size: var(--text-md);
+	color: #FFF;
+	cursor: pointer;
+}
+.button:hover {
+	color: rgb(178, 197, 41);
+}
+@media (min-width:320px){
+	.buttonCV {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		
+	}
+}
+@media (min-width:500px){
+	.buttonCV {
+		width: 60%;
+		display: flex;
+		justify-content: center;
+		
+	}
+}
+@media (min-width:700px){
+	.buttonCV {
+		width: 30%;
+	}
+	
+}
