@@ -27,5 +27,5 @@ Develop the search functionality in an optimal way:
 
 #### Demo
 - github: https://github.com/ChimdaProjects/P7_Les_petits_plats
-- link: 
+- link: https://lespetitsplats-new.vercel.app/
 
