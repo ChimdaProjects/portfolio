@@ -13,7 +13,9 @@ tags:
 
 #### Presentation
 
-Booki, a small company offering a vacation planning tool! Its site enables users to find accommodation and activities in the city of their choice. Accommodations can also be filtered by theme, such as budget or ambiance.
+Booki, a small company offering a vacation planning tool! 
+Its site enables users to find accommodation and activities in the city of their choice. 
+Accommodations can also be filtered by theme, such as budget or ambiance.
 
 #### Mission
 As an intern, integrate the HTML & CSS model. And in different formats: desktop, tablet and mobile.

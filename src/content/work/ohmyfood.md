@@ -13,7 +13,9 @@ tags:
 
 #### Presentation
 Ohmyfood is a young startup that wants to make its mark on the catering market.
-Ohmyfood! is an online meal ordering company. The concept is to enable users to compose their own menu and reduce their waiting time in restaurants, as their menu is prepared in advance. No more wasting time looking at the menu.
+Ohmyfood! is an online meal ordering company. 
+The concept is to enable users to compose their own menu and reduce their waiting time in restaurants, 
+as their menu is prepared in advance. No more wasting time looking at the menu.
 
 #### Mission
 As a junior developer, my mission is to integrate the model using a mobile-first approach. The site will also have to adapt to tablets and desktiops, but their layout is free.

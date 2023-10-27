@@ -13,6 +13,9 @@ tags:
 ---
 #### Mission
 Assigned by the company "les petits plats" as a freelance Front-End Developer.
+You can search for a recipe using the search bar, or by selecting an ingredient, appliance or utensil.
+In each select, you can search for an ingredient, appliance or utensil in the dedicated search bar.
+
 
 Develop the search functionality in an optimal way:
 - Figma model supplied

@@ -11,7 +11,9 @@ tags:
 ---
 
 #### Presentation
-SportSee is a startup dedicated to sports coaching. Today the company will launch a new version of the user profile page. This page will allow the user to track the number of sessions and the number of calories burned.
+SportSee is a startup dedicated to sports coaching. 
+Today the company will launch a new version of the user profile page. 
+This page will allow the user to track the number of sessions and the number of calories burned.
 
 This project has been developped with React and Recharts librairie.
 
